@@ -29,7 +29,7 @@ Turning data into stories, one dataset at a time!
 
 
 ## 🐍 Contribution Snake  
-![GitHub Snake Animation](https://github.com/AakashMuthal/AakashMuthal/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/AakashMuthal/AakashMuthal/blob/output/snake.svg)
 
 ---
 
