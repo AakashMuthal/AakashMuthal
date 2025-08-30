@@ -26,3 +26,14 @@ Turning data into stories, one dataset at a time!
 <a href="http://www.github.com/AakashMuthal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashMuthal&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/AakashMuthal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashMuthal&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+## 🐍 Contribution Snake  
+![GitHub Snake Animation](https://github.com/AakashMuthal/AakashMuthal/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🖼️ Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AakashMuthal&theme=react-dark&hide_border=true&area=true)
+
+
